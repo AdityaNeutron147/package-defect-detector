@@ -1,4 +1,3 @@
-Markdown
 # Automated Package Defect Detector
 
 An automated quality control system built with Python, YOLO, and OpenCV. This project simulates a conveyor belt scanner that identifies damaged cardboard boxes in real-time. It detects three specific types of defects: **dents**, **dirt**, and **holes**.
@@ -13,7 +12,7 @@ An automated quality control system built with Python, YOLO, and OpenCV. This pr
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/package-defect-detector.git](https://github.com/YOUR_USERNAME/package-defect-detector.git)
+   git clone [https://github.com/AdityaNeutron147/package-defect-detector.git](https://github.com/AdityaNeutron147/package-defect-detector.git)
    cd package-defect-detector
 Install dependencies:
 Ensure you have Python installed, then run:
