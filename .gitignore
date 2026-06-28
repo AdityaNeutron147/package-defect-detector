@@ -1,0 +1,21 @@
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Project Output Folders
+detected_defects/
+
+# Python Cache & Compiled Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS Specific Files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor Files
+.vscode/
+.idea/
